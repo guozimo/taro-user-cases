@@ -253,6 +253,10 @@ const userCases = {
     {
       name: '京东好物街',
       url: 'http://storage.jd.com/taro-resource/cases/haowujie.png'
+    },
+    {
+      name: 'CSDN',
+      url: 'https://csdnimg.cn/weapp/csdn_weapp/CSDN.png'
     }
   ],
   '移动端应用': [
